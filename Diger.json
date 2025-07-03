@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Super FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/",
+        "checked_at": "2025-06-30T10:56:50.663446Z"
+    },
+    {
+        "name": "Istanbul Medipol Universitesi Radyosu",
+        "url": "https://stream.medipol.edu.tr/stream",
+        "checked_at": "2025-06-30T10:56:50.663658Z"
+    },
+    {
+        "name": "Radyo 45lik",
+        "url": "https://stream.radyo45lik.com:4545/",
+        "checked_at": "2025-06-30T10:56:50.664199Z"
+    },
+    {
+        "name": "Radyo Alaturka",
+        "url": "https://yayin.jumboserver.net:9100/",
+        "checked_at": "2025-06-30T10:56:50.664359Z"
+    },
+    {
+        "name": "bigFM bigSES",
+        "url": "http://streams.bigfm.de/bigfm-turkey-128-aac",
+        "checked_at": "2025-06-30T10:56:50.664824Z"
+    },
+    {
+        "name": "Hemdem Radyo",
+        "url": "http://yayin.hemdemradyo.com/",
+        "checked_at": "2025-06-30T10:56:50.665285Z"
+    },
+    {
+        "name": "Köroğlu FM",
+        "url": "https://yayin.turkhosted.com:6068/stream?/;stream.mp3",
+        "checked_at": "2025-06-30T10:56:50.667090Z"
+    },
+    {
+        "name": "Love Radio - Turkish Love songs",
+        "url": "https://drive.uber.radio/uber/lrturkish/icecast.audio",
+        "checked_at": "2025-06-30T10:56:50.667562Z"
+    },
+    {
+        "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
+        "url": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
+        "checked_at": "2025-06-30T10:56:50.667980Z"
+    },
+    {
+        "name": "Radyo Gökçeada",
+        "url": "https://radyo.yayin.com.tr:6179/;",
+        "checked_at": "2025-06-30T10:56:50.668856Z"
+    }
+]
